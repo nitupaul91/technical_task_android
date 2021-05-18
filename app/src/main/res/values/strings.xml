@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UsersChallenge</string>
+    <string name="add_action">Add new user button</string>
+    <string name="alert_dialog_title_delete">Are you sure you want to remove this user?</string>
+    <string name="alert_dialog_added_user_success">New entry created successfully.</string>
+    <string name="alert_dialog_invalid_email">Invalid email or name.</string>
+    <string name="alert_dialog_delete_positive">Delete</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_delete_negative">Abort</string>
+    <string name="add_user_email_hint">email</string>
+    <string name="add_user_title">Add new entry.</string>
+    <string name="add_user_name_hint">name</string>
+</resources>
